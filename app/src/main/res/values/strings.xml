@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LinkGuard</string>
+    <string name="accessibility_service_description">Enables LinkGuard to scan on-screen links and phishing threats when the floating bubble is tapped.</string>
+</resources>
